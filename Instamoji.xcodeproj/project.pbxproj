@@ -6,10 +6,15 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		3E2A9D84237653A200A853FC /* Instamoji.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = Instamoji.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		3E2A9D79237652D900A853FC = {
 			isa = PBXGroup;
 			children = (
+				3E2A9D84237653A200A853FC /* Instamoji.py */,
 			);
 			sourceTree = "<group>";
 		};
